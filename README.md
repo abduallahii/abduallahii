@@ -7,7 +7,7 @@
 
 ---
 
-🔧 **Senior DevSecOps & Platform Engineer**  
+🔧 **DevSecOps & Platform Practice lead Engineer**  
 Currently leading infrastructure and DevSecOps efforts at **Giza Arabia** (Egypt / Riyadh). I'm passionate about building secure, scalable systems, and streamlining everything through automation. From vSphere to Kubernetes to GitOps pipelines — I'm on it.
 
 ---
