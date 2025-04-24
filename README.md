@@ -27,8 +27,8 @@ Currently leading infrastructure and DevSecOps efforts at **Giza Arabia** (Egypt
 
 | Project | Role | Stack |
 |--------|------|-------|
-| **IIS-SSB (KSA Mega Project)** | DevSecOps Lead | vSphere, WSO2, Rancher, Kubernetes, Jenkins, Terraform, Redis |
-| **MCO – IMO** | DevSecOps Lead | Azure DevOps, MSSQL, OpenText, ELK, Ansible, LDAP |
+| **GBS (Mega Project)** | DevSecOps Lead | vSphere, WSO2, Rancher, Kubernetes, Jenkins, Terraform, Redis |
+| **GBS** | DevSecOps Lead | Azure DevOps, MSSQL, OpenText, ELK, Ansible, LDAP |
 
 ⚠️ _Project details under NDA_
 
